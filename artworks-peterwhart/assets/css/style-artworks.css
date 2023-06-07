@@ -1,0 +1,24 @@
+
+
+/*the CSS come here */
+
+body {
+  display: block;
+  margin: 8px;
+}
+
+body:focus {
+  outline: none;
+}
+
+a:link {
+  color:#0000FF;
+}
+
+a:active {
+  color:#00FF00;
+}
+
+a:visited {
+  color:#FF0000;
+}
